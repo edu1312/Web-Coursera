@@ -1,0 +1,23 @@
+body {
+	font-size: 20px;
+	color: #fff;
+	background-color: #131284;
+	font-family: serif;
+}
+
+.navbar {
+	color: #032011;
+	background-color: #15E386;
+	border-radius: 0;
+	border: 0;
+	border-bottom
+}
+
+#navbar-brand {
+
+}
+
+section div {
+	font-size: 1.5em;
+	font-weight: bold;
+}
