@@ -1,8 +1,51 @@
 body {
 	font-size: 20px;
 	color: #fff;
-	background-color: #131284;
+	background-color: white;
 	font-family: serif;
+}
+
+div {
+	align-content: center;
+}
+
+h1 {
+	color: black;
+	font-weight: bold;
+}
+
+section div {
+	text-align: center;
+}
+
+section {
+	margin-left: 20px;
+	margin-right: 20px
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
+
+li a {
+
+	background-color: maroon;
+	align-content: center;
+	text-align: center;
+	margin-bottom: 1px;	
+}
+
+.collapse {
+	background-color: maroon;	
+}
+
+.box {
+	border: 3px solid black;
+	height: auto;
+	background-color: #131284;
+	position: relative;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	margin-top: 30px;
 }
 
 .navbar {
@@ -13,6 +56,14 @@ body {
 	border-bottom
 }
 
+header {
+	margin-bottom: 50px;
+}
+
+
+
+
+
 #navbar-brand {
 
 }
@@ -20,4 +71,16 @@ body {
 section div {
 	font-size: 1.5em;
 	font-weight: bold;
+}
+
+@media (min-width: @screen-sm-min) {
+
+}
+
+@media (min-width: @screen-md-min) {
+
+}
+
+@media (min-width: @screen-lg-min) {
+
 }
